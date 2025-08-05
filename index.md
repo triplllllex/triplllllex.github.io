@@ -23,6 +23,11 @@ I'm a Software Engineer at Hithink RoyalFlush Information Network Co., Ltd. in C
 ---
 
 ## Recent News
+- **July 2025**:Released *ConceptPsy: A comprehensive benchmark suite for hierarchical psychological concept understanding in LLMs*
+- **May 2025**:Released our paper *Beyond distillation: Pushing the limits of medical llm reasoning with minimalist rule-based rl*
+- **February 2025**:Our paper *Nexus: An Omni-Perceptive And-Interactive Model for Language, Audio, And Visionis* is accepted to <span style="color:red">ACM MM 2025</span>.
+- **November 2024**：Released our paper *MME-finance: A multimodal finance benchmark for expert-level understanding and reasoning*.
+- **Octerber 2024**:Released paper *TimeCNN: Refining Cross-Variable Interaction on Time Point for Time Series Forecasting*.
 - **September 2024**：Two papers are accepted to <span style="color:red">NeurIPS 2024</span>.
 - **September 2024**：One paper is accepted to <span style="color:red">EMNLP 2024 Findings</span>.
 - **June 2024**：Three papers are accepted to <span style="color:red">ACL 2024</span>.
