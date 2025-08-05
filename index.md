@@ -15,15 +15,14 @@ I'm a Software Engineer at Hithink RoyalFlush Information Network Co., Ltd. in C
 
 ## Experience
 
-05/21 - Now: Research Intern and Researcher, Tencent AI Lab
-11/20 - 04/21: Visiting student, Westlake University
-09/19 - 10/20: Research Intern, Microsoft STCA nlpg
-09/18 - 08/19: Project leader, cooperation project with Nuance
+- 05/21 - Now: Research Intern and Researcher, Tencent AI Lab
+- 11/20 - 04/21: Visiting student, Westlake University
+- 09/19 - 10/20: Research Intern, Microsoft STCA nlpg
+- 09/18 - 08/19: Project leader, cooperation project with Nuance
 
 ---
 
 ## Recent News
-- ****
 - **September 2024**：Two papers are accepted to <span style="color:red">NeurIPS 2024</span>.
 - **September 2024**：One paper is accepted to <span style="color:red">EMNLP 2024 Findings</span>.
 - **June 2024**：Three papers are accepted to <span style="color:red">ACL 2024</span>.
