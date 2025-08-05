@@ -6,8 +6,10 @@ title: Publications
 
 
 ## Publications --- after ChatGPT
-
 <div style="display: flex; align-items: stretch; margin-bottom: 20px;">
+  <div style="width: 160px; margin-right: 20px;">
+    <img src="https://triplllllex.github.io/001.jpg" style="width: 100%; height: 100%; object-fit: contain;">
+  </div>
 
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -16,11 +18,8 @@ title: Publications
       <span style="color: red;">NeurIPS 2024, arXiv: 2409.18892</span>
     </p>
   </div>
-
-  <div style="width: 200px; margin-left: 70px;">
-    <img src="https://triplllllex.github.io/001.jpg" style="width: 100%; height: 100%; object-fit: contain;">
-  </div>
 </div>
+
 
 
 
