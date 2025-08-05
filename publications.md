@@ -11,7 +11,7 @@ title: Publications
 <br>Fan Lin*, Shuyi Xie*, **Yong Dai***, Wenlin Yao, Tianjiao Lang, Zishan Xu, Zhichao Hu, Xiao Xiao, Yuhong Liu, Yu Zhang<br>
 NeurIPS 2024, arXiv: 2409.18892
 <span style="color:red">NeurIPS 2024, arXiv: 2409.18892</span>
-<img src="https://triplllllex.github.io/001.jpg" class="floatpic" width="80" height="120">
+<img src="https://triplllllex.github.io/001.jpg" class="floatpic" width="200" height="300">
 
 
 
