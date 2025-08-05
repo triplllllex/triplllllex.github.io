@@ -16,7 +16,7 @@ title: Publications
     </p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="https://triplllllex.github.io/001.jpg" alt="IDGen Image" width="100" height="140">
+    <img src="https://triplllllex.github.io/001.jpg" alt="IDGen Image" width="300" height="400">
   </div>
 </div>
 
