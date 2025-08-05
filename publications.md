@@ -17,7 +17,7 @@ title: Publications
     </p>
   </div>
 
-  <div style="width: 160px; margin-left: 20px;">
+  <div style="width: 200px; margin-left: 70px;">
     <img src="https://triplllllex.github.io/001.jpg" style="width: 100%; height: 100%; object-fit: contain;">
   </div>
 </div>
