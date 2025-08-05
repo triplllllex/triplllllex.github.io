@@ -6,19 +6,13 @@ title: Publications
 
 
 ## Publications --- after ChatGPT
-<div style="display: flex; align-items: stretch; margin-bottom: 20px;">
-  <div style="width: 160px; margin-right: 20px;">
-    <img src="https://triplllllex.github.io/001.jpg" style="width: 100%; height: 100%; object-fit: contain;">
-  </div>
+- [IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation](https://arxiv.org/pdf/2409.18892)
+<br>Fan Lin*, Shuyi Xie*, **Yong Dai***, Wenlin Yao, Tianjiao Lang, Zishan Xu, Zhichao Hu, Xiao Xiao, Yuhong Liu, Yu Zhang<br>
+NeurIPS 2024, arXiv: 2409.18892
+<span style="color:red">NeurIPS 2024, arXiv: 2409.18892</span>
 
-  <div style="flex: 1;">
-    <p style="margin: 0;">
-      <strong>IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation</strong><br>
-      Fan Lin*, Shuyi Xie*, <strong>Yong Dai*</strong>, Wenlin Yao, Tianjiao Lang, Zishan Xu, Zhichao Hu, Xiao Xiao, Yuhong Liu, Yu Zhang<br>
-      <span style="color: red;">NeurIPS 2024, arXiv: 2409.18892</span>
-    </p>
-  </div>
-</div>
+
+
 
 
 
