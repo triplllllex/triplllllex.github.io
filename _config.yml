@@ -14,27 +14,15 @@ url: https://triplllllex.github.io/
 # --------------------------------------------------
 owner:
   name: Yong Dai
-<<<<<<< HEAD
   avatar: yongdai.jpg
   email: daiyongya@outlook.com
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-=======
-  avatar: hanlin.jpg
-  email: daiyongya@outlook.com
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-
->>>>>>> d2f6d8cce95f7e9629107bff47e5f2a6e4e3f2ce
+  scholar: https://scholar.google.com.hk/citations?view_op=list_works&hl=th&hl=th&user=mCCOT7wAAAAJ&sortby=pubdate
 
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-<<<<<<< HEAD
-=======
-
-
->>>>>>> d2f6d8cce95f7e9629107bff47e5f2a6e4e3f2ce
 
 # --------------------------------------------------
 #  TOP NAVIGATION BAR
@@ -45,14 +33,6 @@ links:
     url: /
   - title: Publications
     url: /publications/
-<<<<<<< HEAD
-=======
-  - title: Experience
-    url: /awards/
-  - title: 中文
-    url: /cn/
-
->>>>>>> d2f6d8cce95f7e9629107bff47e5f2a6e4e3f2ce
 
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
