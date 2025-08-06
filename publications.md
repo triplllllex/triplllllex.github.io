@@ -6,6 +6,15 @@ title: Publications
 
 ---
 ## Publications --- after ChatGPT
+- [Nexus: An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision](https://arxiv.org/pdf/2503.01879?)
+<br>Che Liu, Yingji Zhang, Dong Zhang, Weijie Zhang, Chenggong Gong, Haohan Li, Yu Lu, Shilin Zhou, Yue Lu, Ziliang Gan, Ziao Wang, Junwei Liao, Haipang Wu, Ji Liu, André Freitas, Qifan Wang, Zenglin Xu, Rongjuncheng Zhang, **Yong Dai**<br>
+ACM MM 2025, arXiv: 2503.01879
+<span style="color:red">ACM MM 2025, arXiv: 2503.01879</span>
+
+- [MME-finance: A multimodal finance benchmark for expert-level understanding and reasoning](https://arxiv.org/pdf/2409.18892)
+<br>Ziliang Gan, Yu Lu, Dong Zhang, Haohan Li, Che Liu, Jian Liu, Ji Liu, Haipang Wu, Chaoyou Fu, Zenglin Xu, Rongjunchen Zhang, **Yong Dai**<br>
+ACM MM 2025 Dataset, arXiv:2411.03314 
+<span style="color:red">ACM MM 2025 Dataset, arXiv:2411.03314</span>
 
 - [IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation](https://arxiv.org/pdf/2409.18892)
 <br>Fan Lin*, Shuyi Xie*, **Yong Dai***, Wenlin Yao, Tianjiao Lang, Zishan Xu, Zhichao Hu, Xiao Xiao, Yuhong Liu, Yu Zhang<br>
