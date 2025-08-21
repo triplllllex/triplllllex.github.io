@@ -23,13 +23,14 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
 ---
 ## Research Interests
 
+
 ---
 ## News
-|Year | Content |
+| Year | Content |
 |------|---------|
-|  **Feb 2025** | 🎉 Paper accepted to <span style="color:red">ACM MM 2025</span> |
-|  **Nov 2024** | Released paper *MME-finance*: A multimodal finance benchmark |
-|  **Oct 2024** | Released paper *TimeCNN*: Refining Cross-Variable Interaction |
+|**Feb 2025** | 🎉 Paper accepted to <span style="color:red">ACM MM 2025</span> |
+|**Nov 2024** | Released paper *MME-finance*: A multimodal finance benchmark |
+|**Oct 2024** | Released paper *TimeCNN*: Refining Cross-Variable Interaction |
 | **Sep 2024** | 🎉 Two papers accepted to <span style="color:red">NeurIPS 2024</span> |
 | **Sep 2024** | 🎉 One paper accepted to <span style="color:red">EMNLP 2024 Findings</span> |
 | **Jun 2024** | 🎉 Three papers accepted to <span style="color:red">ACL 2024</span> |
