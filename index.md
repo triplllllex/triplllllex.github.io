@@ -23,7 +23,7 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
 
 ---
 
-| Year | Content |
+|Year | Content |
 |------|---------|
 | **Feb 2025** | 🎉 Paper accepted to <span style="color:red">ACM MM 2025</span> |
 | **Nov 2024** | Released paper *MME-finance*: A multimodal finance benchmark |
