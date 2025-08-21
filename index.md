@@ -35,6 +35,18 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
   2025/01: Paper Accept 🎉 <b>NAACL2025</b>
 </div>
 
+| | |
+|---|---|
+| **Feb 2025**: Paper accepted to **ACM MM 2025** | **Nov 2024**: Released paper *MME-finance*: A multimodal finance benchmark |
+| **Oct 2024**: Released paper *TimeCNN*: Refining Cross-Variable Interaction | **Sep 2024**: Two papers accepted to **NeurIPS 2024** |
+| **Sep 2024**: One paper accepted to **EMNLP 2024 Findings** | **Jun 2024**: Three papers accepted to **ACL 2024** |
+| **Dec 2023**: Released evaluation paper *TencentLLMEval* | **Dec 2023**: Released reward adaptation paper *Everyone deserves a reward* |
+| **Jun 2023**: Paper *SkillNet-X* accepted to **ICASSP 2024** | **Dec 2022**: Paper *Federated Learning + PLMs* accepted to **Findings of ACL 2023** |
+| **Oct 2022**: Paper *Prompt-based Constrained Clustering* accepted to **Findings of EMNLP 2022** | **Aug 2022**: Released technical report *Effidit: Your AI Writing Assistant* |
+| **Aug 2022**: Released paper *Chinese BERT Error Detection* | **Mar 2022**: Released paper *MarkBERT* |
+| **Mar 2022**: Paper *Whole Word Masking* accepted to **Findings of ACL 2022** | **Mar 2022**: Paper *Chinese GPT for Pinyin Input* accepted to **ACL 2022** |
+| **Jan 2022**: Paper *Graph Fusion Network* accepted to **KBS** | **Sep 2021**: Paper *Unsupervised Sentiment Analysis* accepted to **CC** |
+| **Oct 2020**: Paper *Contextualize KBs with Transformer* accepted to **EMNLP 2021 (Oral)** | **Apr 2020**: Paper *Adversarial Training for Sentiment Analysis* accepted to **AAAI 2020** |
 
 ## Recent News
 - **July 2025**:Released *ConceptPsy: A comprehensive benchmark suite for hierarchical psychological concept understanding in LLMs*
