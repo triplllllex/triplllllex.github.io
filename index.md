@@ -23,9 +23,8 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
 
 ---
 
-## News
-|   Year  |   Content  |
-|-----------|------|
+| Year | Content |
+|------|---------|
 | **Feb 2025** | 🎉 Paper accepted to <span style="color:red">ACM MM 2025</span> |
 | **Nov 2024** | Released paper *MME-finance*: A multimodal finance benchmark |
 | **Oct 2024** | Released paper *TimeCNN*: Refining Cross-Variable Interaction |
@@ -46,3 +45,4 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
 | **Sep 2021** | 🎉 Paper *Unsupervised Sentiment Analysis* accepted to <span style="color:red">CC</span> |
 | **Oct 2020** | 🎉 Paper *Contextualize KBs with Transformer* accepted to <span style="color:red">EMNLP 2021 (Oral)</span> |
 | **Apr 2020** | 🎉 Paper *Adversarial Training for Sentiment Analysis* accepted to <span style="color:red">AAAI 2020</span> |
+
