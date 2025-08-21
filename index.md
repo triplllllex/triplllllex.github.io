@@ -11,7 +11,8 @@ Here is **Yong Dai (代勇)**.<br>
 ## Brief Bio
 As a dedicated AI researcher, my work bridges the gap between large language models and the complex, multi-modal world we live in. My journey began at the University of Electronic Science and Technology of China (UESTC), where I completed my Ph.D. under the guidance of Professor Zenglin Xu. During my doctoral program, I also had the valuable opportunity to learn and grow as a research intern at Microsoft. This experience, combined with my subsequent role as a researcher at Tencent AI Lab, solidified my expertise in harnessing large-scale models for a wide spectrum of downstream tasks.
 
-Recently, my focus has shifted to what I see as the next frontier: multi-modality and web agents. I am deeply fascinated by the pursuit of a unified paradigm—a single, elegant model that can perceive, reason, and create across text, images, and other data formats. My long-term vision is to contribute to the development of a true "World Model." By integrating such a powerful generative and understanding system with autonomous agent technology, I aim to play a part in building the foundation for Artificial General Intelligence (AGI) and creating systems that can truly benefit humanity.
+Recently, my focus has shifted to what I see as the next frontier: **multi-modality** and **web agents**. I am deeply fascinated by the pursuit of a unified paradigm—a single, elegant model that can perceive, reason, and create across text, images, and other data formats. My long-term vision is to contribute to the development of a true "World Model." By integrating such a powerful generative and understanding system with autonomous agent technology, I aim to play a part in building the foundation for **Artificial General Intelligence (AGI)** and creating systems that can truly benefit humanity.
+
 ---
 
 ## Experience
@@ -20,14 +21,17 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
 - 11/20 - 04/21: Visiting student, Westlake University
 - 09/19 - 10/20: Research Intern, Microsoft STCA nlpg
 - 09/18 - 08/19: Project leader, cooperation project with Nuance
----
+
 ## Research Interests
 
-<img src="images/interest.jpg" alt="Research Interests" width="300"/>
----
-## Project
+<img src="images/interest.jpg" alt="Research Interests" width="600"/>
 
+## Project
+- 
+- 
+- 
 ---
+
 ## News
 | Year | Content |
 |------|---------|
