@@ -23,6 +23,19 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
 
 ---
 
+## News
+
+<div style="display:flex;align-items:center;">
+  <span style="background:#3cc29e;color:white;border-radius:50%;padding:4px 6px;margin-right:8px;">👥</span>
+  2025/01: Paper Accept 🎉 <b>ICLR2025</b>
+</div>
+
+<div style="display:flex;align-items:center;">
+  <span style="background:#3cc29e;color:white;border-radius:50%;padding:4px 6px;margin-right:8px;">👥</span>
+  2025/01: Paper Accept 🎉 <b>NAACL2025</b>
+</div>
+
+
 ## Recent News
 - **July 2025**:Released *ConceptPsy: A comprehensive benchmark suite for hierarchical psychological concept understanding in LLMs*
 - **May 2025**:Released our paper *Beyond distillation: Pushing the limits of medical llm reasoning with minimalist rule-based rl*
