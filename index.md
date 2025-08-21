@@ -23,6 +23,9 @@ Recently, my focus has shifted to what I see as the next frontier: multi-modalit
 ---
 ## Research Interests
 
+<img src="images/interest.jpg" alt="Research Interests" width="300"/>
+---
+## Project
 
 ---
 ## News
