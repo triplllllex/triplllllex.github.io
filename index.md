@@ -27,9 +27,11 @@ Recently, my focus has shifted to what I see as the next frontier: **multi-modal
 <img src="images/interest.jpg" alt="Research Interests" width="600"/>
 
 ## Project
+
 - 
 - 
 - 
+
 ---
 
 ## News
